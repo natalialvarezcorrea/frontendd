@@ -1,0 +1,41 @@
+.caja{
+    position: relative;
+}
+
+.sld{
+    position: relative;
+    z-index: 1;
+    text-align: center;
+   
+}
+
+.montar{
+    background: #000;
+    
+    color: blanchedalmond;
+    width:300px;
+    position: absolute;
+    display: inline-flex;
+   z-index: 2;
+   margin-top: 100px;
+   margin-left: 50px;
+   
+   
+}
+
+.text{
+    text-align: center;
+}
+.items{
+   position: relative;
+}
+
+
+.bg-w {
+   object-fit: cover;
+   width:98vw;
+   height:600px;
+}
+
+
+

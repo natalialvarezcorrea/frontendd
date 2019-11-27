@@ -1,0 +1,23 @@
+.windows{
+    height:300px;
+}
+
+#user{
+    width: 20%;
+    display:inline-flex;
+    float: left;
+}
+
+#message{
+    width: 80%;
+    display: inline-flex;
+text-align: right;
+}
+
+#send{
+    float: right;
+    width: 100%;
+    font-size: 1em;
+    font-weight: 200;
+    
+}
